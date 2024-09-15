@@ -1,7 +1,7 @@
-# **Libft - 42 Project**
+# **Libft**
 
 ## **Description**
 
-La **Libft** est un projet clé de l'école 42 qui consiste à recréer une bibliothèque standard C personnalisée, fournissant un ensemble de fonctions couramment utilisées dans la programmation en C. Ce projet est un excellent exercice pour renforcer la compréhension des bases de la programmation en C, ainsi que de la gestion de la mémoire, des chaînes de caractères et des pointeurs.
+**Libft** is a key project at 42 that involves recreating a custom C standard library, providing a set of commonly used functions in C programming. This project is an excellent exercise to strengthen the understanding of C programming fundamentals, as well as memory management, string manipulation, and pointers.
 
-Cette bibliothèque contient des fonctions de manipulation de chaînes, de gestion de la mémoire, de manipulation de listes chaînées et d'autres outils utilitaires pour aider à développer des projets futurs en C.
+This library contains functions for string manipulation, memory management, linked list manipulation, and other utility tools to aid in developing future C projects.
